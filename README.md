@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sandynolasco Sandra Hernández Nolasco
-- 👀 I’m interested in Data Analysis, Programming and Architecture Photography
+- 👀 I’m interested in Data Analysis, Programming, Project Manager and Architecture Photography
 - 🌱 I’m currently learning Pyhton and JS
 - 💞️ I’m looking to collaborate on Projects of Power BI and COBOL
 - 📫 How to reach me ... sandy.nolasco@hotmail.com and insta: sandy_nolasco
